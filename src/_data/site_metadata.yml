@@ -4,9 +4,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.metadata.myvariable }}.
 
-title: think→forward
-tagline: Here is what worked
+title: nonduality.today
+tagline: Psychedelic Freediving Retreat
 email: nick@firedev.com
 description: >-
-  Insightment for skeptics. Clarity, understanding, and growth via transformative thinking.
-bitcoin: bc1qw8xfp429drna2u8lmr08grt5ajqzftgwakqnp9
+  The beauty of nature multiplied by the depths of consciousness.
+bitcoin: bc1qdwqdpahme2cw55gykgjtmmd2p3vgk2tvm0h7xn

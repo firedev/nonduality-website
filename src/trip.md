@@ -1,167 +1,90 @@
 ---
 layout: homepage
-title: Trip properly.
+title: Nonduality retreat
 ---
 
 {:.max-w-sm .mx-auto}
 ![](/images/mycellium.png)
 
+{:.text-5xl .font-bold .tracking-tight .animate .ease .fadeIn .delay-500 .text-center .sm:text-8xl .mb-16 .z-1 .relative .bg-gradient-to-r .from-blue-600 .via-green-500 .to-indigo-400 .inline-block .text-transparent .bg-clip-text}
+# 2-week Non-duality Retreat in Thailand
 
-{:.text-5xl .font-bold .tracking-tight .animate .ease .fadeIn .delay-500 .text-center .sm:text-8xl .mt-0 .mb-16 .z-1 .relative}
-# Trip properly
+{:.text-4xl .text-center .mb-8 .mt-0}
+## **Phuket, Thailand**
 
-Once you get in the groove and sense that feedback loop, the world begins to change in response. You start to perceive more in everything, and life unfolds in return. Mend what was once broken within and influence the world outside. Deliberate transformative thinking with a pinch of psychedelic, can transform life in a day. Do the research. Google it.
+{:.text-3xl .text-center .mb-8 .mt-0}
+## Nov 20th — Dec, 10th 2024
 
-## One trip can change your life
+{:.strong .text-center .mb-8 .mt-0}
+The beauty of nature multiplied by the depths of consciousness.
 
-Psychedelic means manifesting psyche, soul-manifestors. They act differently, but the result is the same. You start seeing your thoughts. They become tangible and you can work with them. Fix your mind. Fix your thoughts. Fix your life.
+# 🫧 Highpoint
+We peak during an exclusive 3-4 day package trip to the stunning Surin Islands in a protected Oceanic National Park World Heritage Site in Phang Nga, Thailand.
 
-You can change the world in which you actually live. The world inside your head. 
-But you can't do it too often because the magic wanes. We don't have that many chances to understand the world and ourselves. We need to make the most of it.
+# 🗓️ Estimate dates
+Possible dates in 2024:
+- — 20th Nov 2024 — 10th Dec 2024
+- — 20th Dec 2024 — 10th Jan 2025
 
-To maximize the effect, prepare diligently. **Do the homework.**
+# 🏝️ Surin islands
+Crystal-clear waters, vibrant coral reefs, and diverse marine life.  We stay in tents on a peaceful beach surrounded by an abundance of marine life. Two ocean trips a day with a break in between. Included:
+— A unique long-tail boat for snorkeling and freediving excursions
+— Comfortable beachside tents with air beds, mini fans, and lights
+— All meals, snacks, and drinks
+— Professional photos and video documentation
 
-{:.text-4xl .font-bold .tracking-tight .animate .ease .fadeIn .delay-500 .text-center .sm:text-6xl .mb-8 .z-1 .relative}
-# To infinity and beyond
+# 🧘‍♀️ The path
+I welcome everybody to try the awakening path I went. Following meditation schedule with a certain state of mind one can get to awakening in about a week. But one week total is just not enough, so it's two.
 
-Proper trip often is life-changing. If you are prepared, know what to expect and what to pay attention to, it might transform you on the spot. A comprehensive approach ensures safe and transformative experience. I'm sharing this for those interested in exploring brain-hacking techniques.
+# 🗓️ The Daily Schedule
+We have three mediations and two activity blocks per day. For some adventures we'll use the whole day.
 
-It is important to minimize the risk of bad trip and then reinforce the insights while they are fresh. You might get frightened or start freaking out. The best way to proceed is to just accept the experience. Whatever happens is only you.
+* 1 — Wake up
+* 2 — Yoga
+* 3 — Meditation
+* 4 — Breakfast
+* 5 — Activity 1: Yoga/Swimming/Adventuring
+* 6 — Meditation
+* 7 — Lunch break and rest
+* 8 — Activity 2: Yoga/Swimming/Adventuring
+* 9 – Meditation
+* 10 — Integration/Workshop
 
-The other common issue is nausea, which usually goes away, after a while. Warming-up and body reaction testing helps.
+# 🗓️ Weekly Schedule
 
-It helps to have a seasoned journey companion to navigate the experience. Someone who guides the trip and helps to find valuable insights along the way.
+We'll stay in Phuket and travel to the islands, where we'll spend a few days living in harmony with nature. Our days will be filled with snorkeling, island life, and plenty of time with the ocean. We'll stay together, and our daily routine will include yoga and meditation sessions.
 
-The best way to avoid a bad trip is to have a good one. Prepare mentally and physically. And have a guide. From experience. If properly prepared. With proper set and setting and a trip-sitter at hand. When
-everything goes as planned. Rebirth is practically guaranteed.
+Dates and schedules are estimates and subject to changes due to availability. It takes 2-3 days to learn minimal freediving and 3-4 days to experience it.
 
-{:.text-4xl .font-bold .tracking-tight .animate .ease .fadeIn .delay-500 .text-center .sm:text-6xl .mb-8 .z-1 .relative}
-# SSS: Set, Settings, Sitter
+* Day 1 — Coming in and settling down
+* Day 2 — The Surin Islands trip
+* Day 3 — The Surin Islands trip
+* Day 4 — The Surin Islands trip
+* Day 5 — The Surin Islands trip
+* Day 6 — Rest day
+* Day 7 — Adventuring and Islands hopping
 
-Do not do it on the parties, rave concerts and the like. To have a mind-blowing experience you need to be in a safe and comfortable environment. With no distractions. And no people around. You need to be able to concentrate on yourself.
+# ☯ Enlightenment
 
-## 1. Set.
+We'll practice together three times a day in a group setting. I'll be sharing all the expertise and "hacks" for achieving enlightenment. This will allow us to support and learn from each other, leading to breakthroughs and personal growth.
 
-First is the mindset. Approach this with eagerness to accept whatever comes your way. Remember, you're only seeing yourself. I try to tune in by asking myself some philosophical questions "Who am I?", "What do I want?", "What do I do?", "Where do I go?", I'll put up a list of for the self-guided sessions.
 
-## 2. Setting.
+# ☀️ Environment
 
-Setting is time, space and the environment. I've found that early mornings in a remote, people-free location work best. For those who thrive at night, I suggest trying it alone outside during a full moon. So you don't bang into something in total darkness. Prepare the playlist, only top-shelf golden tracks, no words. DJ Mixes work wonders. See the examples in (Music)[/music]
+The weather in Thailand during this time is warm, with temperatures ranging from 26-28°C (79-82°F) throughout the day. The clear waters and breathtaking scenery will provide the perfect backdrop for our journey of self-discovery.
 
-## 3. ~~Sitter.~~ Trip advisor.
+# 🥰️ Psychedelic Support
 
-In a few trips you grow enough neurons to be always in control. I recommend the first breaktrough trip to be done with an experienced guide to help dive in and out. It's important to record the insights while you see the world as it is. If everything goes super smooth — the guide melts into the background so you could concentrate on yourself.
+Psychedelics should be spaced at least a week apart, allowing to fully integrate the experience and insights before embarking on the next adventures.
 
-## Not many chances left
+{:.text-center}
+# Give yourself a chance to discover the beauty of non-duality in the heart of Thailand!
 
-Psychedelics are self-regulating and the magic wanes. Basically you can't trip too often. This is why it's important to make the most of it.
-
-Start using your new abilities, while the gates inside are still open. Grow new neural connections towards the forward thinking, towards seeing things as they are, towards the life control. The questions start flowing in immediately. This is why an integration session is needed. I'll put up a list too.
-
-<div class="bg-sky-100 rounded-xl p-16 max-w-screen-xl my-16">
-  <h1 class="mt-0">My next moves:
-    <del>Phuket</del>
-    Bangkok, Thailand
-  </h1>
-
-  <h1 class="text-2xl">A guided voyage through the landscapes of the mind</h1>
-  <p>I change countries from time to time. Here are the places I'll be around the next full moon.</p>
-  <h2 id="full-moon-dates-and-trip-locations-for-2023" class="text-xl">Full moon dates and locations for 2023</h2>
-
-  <table class="w-full">
-    <tbody>
-    <tr>
-      <td>
-        <div class="flex items-center">
-          <del><strong>Moscow, Russia</strong></del>
-          <sl-icon library="remixicon" name="system/check" class="text-green-500"></sl-icon>
-        </div>
-      </td>
-      <td>August 30</td>
-      <td>Blue Moon</td>
-    </tr>
-    <tr>
-      <td><strong>Bangkok, Thailand</strong></td>
-      <td>
-        <del>September 29</del>
-        Early October
-      </td>
-      <td>Harvest Moon</td>
-    </tr>
-    <tr>
-      <td><strong>Mexico, Mexico City</strong></td>
-      <td>October 28</td>
-      <td>Hunter’s Moon</td>
-    </tr>
-    <tr>
-      <td><strong>Mexico, Cancun</strong></td>
-      <td>November 27</td>
-      <td>Beaver Moon</td>
-    </tr>
-    <tr>
-      <td><strong>Phuket, Thailand</strong></td>
-      <td>December 26</td>
-      <td>Cold Moon</td>
-    </tr>
-    </tbody>
-  </table>
-</div>
-
-# Here's how I'd do it
-
-Arrange a few days somewhere not in the city, away from people. Secluded places are best to mentally decompress with no distractions.
-
-Have a cool-down and warm-up period. Start easing into the guided exploration of the neural constellations. Check bodily reactions to microdosing. And slowly turn the knob to eleven.
-
-For the main event see The Ideas below. It should be mind blowing. With no other people around.
-
-Then unplug. Immerse in the experience of guided consciousness exploration.
-
-> We've lost the sense of wonder and transformation that used to come from initiation rituals and miracles. These
-> experiences were meant to be mysterious and beyond our understanding, in order to change who we are.
-
-# Ideas
-
-I preach tripping outside so you can blend in with nature. The best place is somewhere far reaching. The best times are sunrise, sunset and the full moon.
-
-Music has serious healing effect. The magic is in the frequencies. Get the best portable sound system. Go
-to an inhabited island during the full moon and power it on. Hug the bass and feel the vibrations. Feel the magic.
-
-Take off at the top of a mountain. The sky is magnificent on a starry night. The morning clouds that spread below. The
-tip of the pyramid is the exit.
-
-Walk through the forest or a park in the night. See that the trees are alive. It takes a few hours so the track should
-be long enough to see the tunnel of reality.
-
-# Why the Full Moon?
-
-You can stay late outside and have some fun without risking your neck in pitch black darkness. With the healing magic of entheogenic spirit journey one can see the fabric of the universe under the moonlight. Depending on
-the weather conditions of course.
-
-It doesn't have to be the full moon. I found Sunday early mornings works best. You need a day of integration anyway. And for the maximum effect it should be done outside.
-
-# How do I not forget?
-
-Enlightenment is like a dream. You wake up and it's gone. You need to be asked question to remember. You need to be shown.
-Check the section about common phenomena and what to pay attention to. It turns out that without knowing what to expect beforehand, people miss the most important insights.
-
-Top it off with the new self integration sessions. You need to master your new abilities. And learn how not to forget
-who you really are are. Read the parts about what to think. I write about this too.
-
-# The planet is our home, and we do as we please.
-
-Each person deserves to see what else life on Earth has to offer.
-
-The sands of time are slipping away.
-
-# So where's the book?
-
-Working on it! Stay tuned...
-
-{%@ "the_book" %}
+{:.text-center.text-4xl}
+# 🇹🇭
 
 <div class="px-2 py-3 text-center">
-  <h1 class="mt-0">Trip reports</h1>
+  <h1 class="mt-0">Past Retreats</h1>
   <h2>Teriberka, North Polar Circle</h2>
 
   <div class="flex flex-wrap">
