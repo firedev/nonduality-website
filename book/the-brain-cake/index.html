@@ -16,28 +16,28 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="The beauty of nature multiplied by the depths of consciousness." />
 <meta property="og:description" content="The beauty of nature multiplied by the depths of consciousness." />
-<link rel="canonical" href="https://nonduality.today/book/the-brain-cake/" />
-<meta property="og:url" content="https://nonduality.today/book/the-brain-cake/" />
+<link rel="canonical" href="http://localhost:4000/book/the-brain-cake/" />
+<meta property="og:url" content="http://localhost:4000/book/the-brain-cake/" />
 <meta property="og:site_name" content="nonduality.today" />
-<meta property="og:image" content="https://mugshotbot.com/m?theme=bold&mode=light&color=246e62&pattern=bank_note&hide_watermark=true&url=https://nonduality.today/book/the-brain-cake/" />
+<meta property="og:image" content="https://mugshotbot.com/m?theme=bold&mode=light&color=246e62&pattern=bank_note&hide_watermark=true&url=http://localhost:4000/book/the-brain-cake/" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2026-02-21T19:41:55-08:00" />
+<meta property="article:published_time" content="2026-02-21T20:04:52-08:00" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="https://mugshotbot.com/m?theme=bold&mode=light&color=246e62&pattern=bank_note&hide_watermark=true&url=https://nonduality.today/book/the-brain-cake/" />
+<meta property="twitter:image" content="https://mugshotbot.com/m?theme=bold&mode=light&color=246e62&pattern=bank_note&hide_watermark=true&url=http://localhost:4000/book/the-brain-cake/" />
 <meta property="twitter:title" content="The brain cake" />
 <!-- End Bridgetown SEO tag -->
 
 
-<link rel="alternate" hreflang="en" href="https://nonduality.today/book/the-brain-cake/" />
-<link rel="alternate" hreflang="ru" href="https://nonduality.today/ru/book/the-brain-cake/" />
-<link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/the-brain-cake/" />
+<link rel="alternate" hreflang="en" href="http://localhost:4000/book/the-brain-cake/" />
+<link rel="alternate" hreflang="ru" href="http://localhost:4000/ru/book/the-brain-cake/" />
+<link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/the-brain-cake/" />
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "nonduality.today",
-  "url": "https://nonduality.today",
+  "url": "http://localhost:4000",
   "description": "The beauty of nature multiplied by the depths of consciousness.",
   "inLanguage": ["en"],
   "author": {
@@ -57,15 +57,69 @@
 </script>
 
 <meta name="turbo-cache-control" content="no-preview" />
-<link rel="stylesheet" href="/_bridgetown/static/index.NR4IHEPU.css" data-turbo-track="reload" />
-<script src="/_bridgetown/static/index.W7JI4N63.js" type="module" data-turbo-track="reload"></script>
-<link type="application/atom+xml" rel="alternate" href="https://nonduality.today/feed.xml" title="nonduality.today" />
+<link rel="stylesheet" href="/_bridgetown/static/index.FHCG6UJR.css" data-turbo-track="reload" />
+<script src="/_bridgetown/static/index.24HOD3C3.js" type="module" data-turbo-track="reload"></script>
+<link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="nonduality.today" />
+<script type="module">let lastmod = 0
+let reconnectAttempts = 0
+function startLiveReload() {
+  const connection = new EventSource("/_bridgetown/live_reload")
 
+  connection.addEventListener("message", event => {
+    reconnectAttempts = 0
+    if (document.querySelector("#bridgetown-build-error")) document.querySelector("#bridgetown-build-error").close()
+    if (event.data == "reloaded!") {
+      location.reload()
+    } else {
+      const newmod = Number(event.data)
+      if (lastmod > 0 && newmod > 0 && lastmod < newmod) {
+        location.reload()
+      } else {
+        lastmod = newmod
+      }
+    }
+  })
+
+  connection.addEventListener("builderror", event => {
+    let dialog = document.querySelector("#bridgetown-build-error")
+    if (!dialog) {
+      dialog = document.createElement("dialog")
+      dialog.id = "bridgetown-build-error"
+      dialog.style.borderColor = "red"
+      dialog.style.fontSize = "110%"
+      dialog.innerHTML = `
+        <p style="color:red">There was an error when building the site:</p>
+        <output><pre></pre></output>
+        <p><small>Check your Bridgetown logs for further details.</small></p>
+      `
+      document.body.appendChild(dialog)
+      dialog.showModal()
+    }
+    dialog.querySelector("pre").textContent = JSON.parse(event.data)
+  })
+
+  connection.addEventListener("error", () => {
+    if (connection.readyState === 2) {
+      // reconnect with new object
+      connection.close()
+      reconnectAttempts++
+      if (reconnectAttempts < 25) {
+        console.warn("Live reload: attempting to reconnect in 3 seconds...")
+        setTimeout(() => startLiveReload(), 3000)
+      } else {
+        console.error("Too many live reload connections failed. Refresh the page to try again.")
+      }
+    }
+  })
+}
+
+startLiveReload()
+</script>
 
 </head>
 <body class="book ">
 
-<header class="homepage-no-shadow transition-shadows py-5 px-4 sm:py-7 shadow-2xl shadow-stone-600/10 relative z1 xdark:bg-stone-900 xdark:bg-opacity-80 xdark:shadow-none">
+<header class="homepage-no-shadow transition-shadows py-5 px-4 sm:py-7 shadow-2xl relative z1">
   <div class="flex flex-wrap lg:items-center row w-full justify-between max-w-screen-2xl mx-auto gap-2">
 
     <a href="/" class="relative flex items-center gap-4 mx-3 mb-2 ">
