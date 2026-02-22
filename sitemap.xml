@@ -12,394 +12,394 @@
     http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd">
 
         <url>
-          <loc>http://localhost:4000/book/</loc>
+          <loc>https://nonduality.today/book/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/" />
 
           <lastmod>2023-12-31T07:35:12-08:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/book/who-are-you/</loc>
+          <loc>https://nonduality.today/book/who-are-you/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/who-are-you/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/who-are-you/" />
-
-          <lastmod>2023-11-05T17:51:44-08:00</lastmod>
-
-
-        </url>
-        <url>
-          <loc>http://localhost:4000/book/who-can-you-trust/</loc>
-
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/who-can-you-trust/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/who-can-you-trust/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/who-are-you/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/who-are-you/" />
 
           <lastmod>2023-11-05T17:51:44-08:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/book/how-did-we-get-here/</loc>
+          <loc>https://nonduality.today/book/who-can-you-trust/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/how-did-we-get-here/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/how-did-we-get-here/" />
-
-          <lastmod>2023-11-05T17:51:44-08:00</lastmod>
-
-
-        </url>
-        <url>
-          <loc>http://localhost:4000/book/how-are-we-wired/</loc>
-
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/how-are-we-wired/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/how-are-we-wired/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/who-can-you-trust/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/who-can-you-trust/" />
 
           <lastmod>2023-11-05T17:51:44-08:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/book/this-is-love/</loc>
+          <loc>https://nonduality.today/book/how-did-we-get-here/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/this-is-love/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/this-is-love/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/how-did-we-get-here/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/how-did-we-get-here/" />
 
           <lastmod>2023-11-05T17:51:44-08:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/book/the-brain-cake/</loc>
+          <loc>https://nonduality.today/book/how-are-we-wired/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/the-brain-cake/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/the-brain-cake/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/how-are-we-wired/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/how-are-we-wired/" />
+
+          <lastmod>2023-11-05T17:51:44-08:00</lastmod>
+
+
+        </url>
+        <url>
+          <loc>https://nonduality.today/book/this-is-love/</loc>
+
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/this-is-love/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/this-is-love/" />
+
+          <lastmod>2023-11-05T17:51:44-08:00</lastmod>
+
+
+        </url>
+        <url>
+          <loc>https://nonduality.today/book/the-brain-cake/</loc>
+
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/the-brain-cake/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/the-brain-cake/" />
 
           <lastmod>2023-09-27T08:42:53-07:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/book/enter-the-fear/</loc>
+          <loc>https://nonduality.today/book/enter-the-fear/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/enter-the-fear/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/enter-the-fear/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/enter-the-fear/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/enter-the-fear/" />
 
           <lastmod>2023-09-27T08:42:53-07:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/book/brain-shrinking-stress/</loc>
+          <loc>https://nonduality.today/book/brain-shrinking-stress/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/brain-shrinking-stress/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/brain-shrinking-stress/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/brain-shrinking-stress/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/brain-shrinking-stress/" />
 
           <lastmod>2023-11-04T16:48:21-07:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/book/pixar-inside-out/</loc>
+          <loc>https://nonduality.today/book/pixar-inside-out/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/pixar-inside-out/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/pixar-inside-out/" />
-
-          <lastmod>2023-09-27T08:42:53-07:00</lastmod>
-
-
-        </url>
-        <url>
-          <loc>http://localhost:4000/book/pixar-soul/</loc>
-
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/pixar-soul/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/pixar-soul/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/pixar-inside-out/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/pixar-inside-out/" />
 
           <lastmod>2023-09-27T08:42:53-07:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/book/no-hope/</loc>
+          <loc>https://nonduality.today/book/pixar-soul/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/no-hope/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/no-hope/" />
-
-          <lastmod>2023-09-27T08:42:53-07:00</lastmod>
-
-
-        </url>
-        <url>
-          <loc>http://localhost:4000/book/light/</loc>
-
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/light/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/light/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/pixar-soul/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/pixar-soul/" />
 
           <lastmod>2023-09-27T08:42:53-07:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/book/darkness/</loc>
+          <loc>https://nonduality.today/book/no-hope/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/darkness/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/darkness/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/no-hope/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/no-hope/" />
+
+          <lastmod>2023-09-27T08:42:53-07:00</lastmod>
+
+
+        </url>
+        <url>
+          <loc>https://nonduality.today/book/light/</loc>
+
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/light/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/light/" />
+
+          <lastmod>2023-09-27T08:42:53-07:00</lastmod>
+
+
+        </url>
+        <url>
+          <loc>https://nonduality.today/book/darkness/</loc>
+
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/darkness/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/darkness/" />
 
           <lastmod>2023-11-04T16:48:21-07:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/book/dualism/</loc>
+          <loc>https://nonduality.today/book/dualism/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/dualism/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/dualism/" />
-
-          <lastmod>2023-09-27T08:42:53-07:00</lastmod>
-
-
-        </url>
-        <url>
-          <loc>http://localhost:4000/book/the-wave/</loc>
-
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/the-wave/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/the-wave/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/dualism/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/dualism/" />
 
           <lastmod>2023-09-27T08:42:53-07:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/book/second-life/</loc>
+          <loc>https://nonduality.today/book/the-wave/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/second-life/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/second-life/" />
-
-          <lastmod>2023-09-27T08:42:53-07:00</lastmod>
-
-
-        </url>
-        <url>
-          <loc>http://localhost:4000/book/ultimate-reality/</loc>
-
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/ultimate-reality/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/ultimate-reality/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/the-wave/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/the-wave/" />
 
           <lastmod>2023-09-27T08:42:53-07:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/book/mythology/</loc>
+          <loc>https://nonduality.today/book/second-life/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/mythology/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/mythology/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/second-life/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/second-life/" />
+
+          <lastmod>2023-09-27T08:42:53-07:00</lastmod>
+
+
+        </url>
+        <url>
+          <loc>https://nonduality.today/book/ultimate-reality/</loc>
+
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/ultimate-reality/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/ultimate-reality/" />
+
+          <lastmod>2023-09-27T08:42:53-07:00</lastmod>
+
+
+        </url>
+        <url>
+          <loc>https://nonduality.today/book/mythology/</loc>
+
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/mythology/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/mythology/" />
 
           <lastmod>2023-11-05T17:51:44-08:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/book/the-heros-journey/</loc>
+          <loc>https://nonduality.today/book/the-heros-journey/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/the-heros-journey/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/the-heros-journey/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/the-heros-journey/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/the-heros-journey/" />
 
           <lastmod>2023-09-27T08:42:53-07:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/book/body-mind-soul/</loc>
+          <loc>https://nonduality.today/book/body-mind-soul/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/body-mind-soul/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/body-mind-soul/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/body-mind-soul/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/body-mind-soul/" />
 
           <lastmod>2023-11-04T16:48:21-07:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/book/hierarchies/</loc>
+          <loc>https://nonduality.today/book/hierarchies/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/hierarchies/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/hierarchies/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/hierarchies/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/hierarchies/" />
 
           <lastmod>2023-09-28T23:48:54-07:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/book/mastery/</loc>
+          <loc>https://nonduality.today/book/mastery/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/mastery/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/mastery/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/mastery/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/mastery/" />
 
           <lastmod>2023-09-28T07:27:29-07:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/book/drama/</loc>
+          <loc>https://nonduality.today/book/drama/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/drama/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/drama/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/drama/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/drama/" />
 
           <lastmod>2023-11-04T16:48:21-07:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/book/hard-knock-life/</loc>
+          <loc>https://nonduality.today/book/hard-knock-life/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/hard-knock-life/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/hard-knock-life/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/hard-knock-life/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/hard-knock-life/" />
 
           <lastmod>2023-11-06T07:39:49-08:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/book/unlearn/</loc>
+          <loc>https://nonduality.today/book/unlearn/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/unlearn/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/unlearn/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/unlearn/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/unlearn/" />
 
           <lastmod>2023-11-06T10:35:39-08:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/book/mask-on-yourself/</loc>
+          <loc>https://nonduality.today/book/mask-on-yourself/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/mask-on-yourself/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/mask-on-yourself/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/mask-on-yourself/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/mask-on-yourself/" />
 
           <lastmod>2023-12-31T07:35:12-08:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/book/suffering/</loc>
+          <loc>https://nonduality.today/book/suffering/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/book/suffering/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/book/suffering/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/book/suffering/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/book/suffering/" />
 
           <lastmod>2025-06-13T04:01:24-07:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/music/</loc>
+          <loc>https://nonduality.today/music/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/music/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/music/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/music/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/music/" />
 
           <lastmod>2023-09-27T23:37:03-07:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/music/northern-exposure/</loc>
+          <loc>https://nonduality.today/music/northern-exposure/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/music/northern-exposure/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/music/northern-exposure/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/music/northern-exposure/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/music/northern-exposure/" />
 
           <lastmod>2023-09-27T08:42:53-07:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/books/alan-watts-the-book/</loc>
+          <loc>https://nonduality.today/books/alan-watts-the-book/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/books/alan-watts-the-book/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/books/alan-watts-the-book/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/books/alan-watts-the-book/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/books/alan-watts-the-book/" />
 
           <lastmod>2023-11-05T17:51:44-08:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/books/</loc>
+          <loc>https://nonduality.today/books/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/books/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/books/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/books/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/books/" />
 
           <lastmod>2023-11-05T17:51:44-08:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/404</loc>
+          <loc>https://nonduality.today/404</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/404" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/404" />
-
-          <lastmod>2023-09-27T08:42:53-07:00</lastmod>
-
-
-        </url>
-        <url>
-          <loc>http://localhost:4000/500</loc>
-
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/500" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/500" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/404" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/404" />
 
           <lastmod>2023-09-27T08:42:53-07:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/8-ball/</loc>
+          <loc>https://nonduality.today/500</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/8-ball/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/8-ball/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/500" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/500" />
+
+          <lastmod>2023-09-27T08:42:53-07:00</lastmod>
+
+
+        </url>
+        <url>
+          <loc>https://nonduality.today/8-ball/</loc>
+
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/8-ball/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/8-ball/" />
 
           <lastmod>2023-11-06T08:53:55-08:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/</loc>
+          <loc>https://nonduality.today/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/" />
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/" />
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/bridgetown_quick_search/index.json" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/bridgetown_quick_search/index.json" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/bridgetown_quick_search/index.json" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/bridgetown_quick_search/index.json" />
 
           <lastmod>2023-12-31T07:35:12-08:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/posts/</loc>
+          <loc>https://nonduality.today/posts/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/posts/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/posts/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/posts/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/posts/" />
 
           <lastmod>2023-09-30T23:17:00-07:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/toc/</loc>
+          <loc>https://nonduality.today/toc/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/toc/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/toc/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/toc/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/toc/" />
 
           <lastmod>2023-09-27T08:42:53-07:00</lastmod>
 
 
         </url>
         <url>
-          <loc>http://localhost:4000/trip/</loc>
+          <loc>https://nonduality.today/trip/</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/trip/" />
-              <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/trip/" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://nonduality.today/trip/" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://nonduality.today/trip/" />
 
           <lastmod>2025-06-13T04:01:24-07:00</lastmod>
 
@@ -409,11 +409,11 @@
 
 
     <url>
-      <loc>http://localhost:4000/downloads/Joy.pdf</loc>
+      <loc>https://nonduality.today/downloads/Joy.pdf</loc>
       <lastmod>2024-06-24T12:37:57-07:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/presentation/index.html</loc>
+      <loc>https://nonduality.today/presentation/index.html</loc>
       <lastmod>2024-06-24T12:37:57-07:00</lastmod>
     </url>
 
