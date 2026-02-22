@@ -40,3 +40,4 @@ frontend/styles/jit-refresh.css
 src/shoelace-assets
 build
 src/images/book/*.jpeg
+tmp/

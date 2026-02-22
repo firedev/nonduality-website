@@ -1,9 +1,9 @@
 <!doctype html>
-<html loaded lang="en">
+<html loaded lang="{%= page.data.locale || 'en' %}">
 <head>
   {%@ "head" %}
 </head>
-<body class="{{ data.layout }} {{ data.page_class }} xdark:bg-slate-950 xdark:text-white-500">
+<body class="{{ data.layout }} {{ data.page_class }}">
 
 {%@ Shared::Navbar metadata: site.metadata, resource: resource %}
 

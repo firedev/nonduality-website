@@ -1,6 +1,6 @@
 <footer class="overflow-hidden">
   <div class="group flex flex-col items-center justify-center">
-    <h3 class="text-xl font-bold  xxdark:text-orange-50 xxdark:text-opacity-50"> Support the
+    <h3 class="text-xl font-bold"> Support the
       adventure</h3>
     <a href="bitcoin:{{site.metadata.bitcoin}}">
       <code class="break-words text-orange-600 min-w-1 bold flex gap-2 items-center font-bold break-words overflow-hidden">

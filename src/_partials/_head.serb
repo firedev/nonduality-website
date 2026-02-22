@@ -8,6 +8,36 @@
 
 {%= seo %}
 
+{% en_url = page.data.locale == "ru" ? resource.relative_url.sub('/ru/', '/') : resource.relative_url %}
+{% ru_url = page.data.locale == "ru" ? resource.relative_url : "/ru#{resource.relative_url}" %}
+<link rel="alternate" hreflang="en" href="{%= site.config.url %}{%= en_url %}" />
+<link rel="alternate" hreflang="ru" href="{%= site.config.url %}{%= ru_url %}" />
+<link rel="alternate" hreflang="x-default" href="{%= site.config.url %}{%= en_url %}" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{%= site.metadata.title %}",
+  "url": "{%= site.config.url %}",
+  "description": "{%= site.metadata.description %}",
+  "inLanguage": ["{%= page.data.locale || 'en' %}"],
+  "author": {
+    "@type": "Person",
+    "name": "Nick Ostrovsky"
+  }
+}
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K4R6DF63YN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-K4R6DF63YN');
+</script>
+
 <meta name="turbo-cache-control" content="no-preview" />
 <link rel="stylesheet" href="{%= asset_path :css %}" data-turbo-track="reload" />
 <script src="{%= asset_path :js %}" type="module" data-turbo-track="reload"></script>
