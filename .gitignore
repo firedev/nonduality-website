@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Image editor sources (not web assets)
+*.acorn
+*.psd
+*.xcf
+
+# Editor/tmp
+*.swp
+*~
