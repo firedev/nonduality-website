@@ -1,0 +1,28 @@
+{
+  "name": "lifeback",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "bin/bridgetown frontend:build && bin/bridgetown start",
+    "shoelace:copy-assets": "# mkdir -p src/shoelace-assets && cp -r node_modules/@shoelace-style/shoelace/dist/assets src/shoelace-assets",
+    "esbuild": "yarn shoelace:copy-assets && node esbuild.config.js --minify",
+    "esbuild-dev": "yarn shoelace:copy-assets && node esbuild.config.js --watch",
+    "deploy": "rm -rf output/* && BRIDGETOWN_ENV=production bin/bridgetown frontend:build && BRIDGETOWN_ENV=production bin/bridgetown build && cp .nojekyll output/. && cp CNAME output/. && cd output  && git add . && git commit -m build && git push"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.0",
+    "@tailwindcss/typography": "^0.5.19",
+    "esbuild": "^0.27.3",
+    "glob": "^13.0.6",
+    "postcss": "^8.4.29",
+    "postcss-import": "^16.1.0",
+    "postcss-load-config": "^4.0.1",
+    "read-cache": "^1.0.0",
+    "tailwindcss": "^4.0.0"
+  },
+  "dependencies": {
+    "@shoelace-style/shoelace": "^2.8.0",
+    "bridgetown-quick-search": "3.0.3"
+  }
+}

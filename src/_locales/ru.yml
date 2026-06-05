@@ -1,0 +1,20 @@
+es:
+  navbar:
+    home: Inicio
+    events: Eventos
+    cfp: Quiero dar una charla
+    code_of_conduct: Código de Conducta
+    sponsors: Patrocinadores
+    contact: Contacto
+  urls:
+    home: /
+    events: /eventos
+    cfp: /cfp
+    code_of_conduct: /codigo_de_conducta
+    sponsors: /patrocinadores
+    contact: /contacto
+  footer:
+    contact: Contáctanos en
+    copyright: Todos los derechos reservados.
+
+

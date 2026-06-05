@@ -1,0 +1,5 @@
+# NOT OUTPUT BY BRIDGETOWN
+#
+# Common post categories:
+
+- #talks
