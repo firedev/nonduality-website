@@ -1,16 +1,14 @@
-# Deploy
+# nonduality.today
+
+Bridgetown site. Build & deploy to GitHub Pages:
 
 ```
 yarn deploy
 ```
 
+`output/` is a separate git repo. If cloned fresh:
+
 ```
 cd output
-remote add origin git@github.com:firedev/thinkforward-website
-```
-
-## Old
-
-```
-remote add dokku	dokku@dokku.gridpapr.com:thinkforward
+git init && git remote add origin git@github.com:firedev/nonduality-website
 ```
