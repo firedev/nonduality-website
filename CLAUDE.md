@@ -25,5 +25,5 @@ yarn deploy    # production build → output/ → commit+push master (нужен
 ## Грабли
 
 - **Репо должен быть public** — приватный на free plan молча перестаёт собирать Pages, продолжая отдавать stale-сайт
-- **Контент только в `src/`, НИКОГДА напрямую в `output/`** — `yarn deploy` делает `rm -rf output/*` и стирает всё, что закоммичено в master руками (так однажды снесло surin-retreat-файлы)
-- `src/surin-retreat-2026-11{,-ru}.md` — промо ретрита с shareable-URL `permalink: /surin-retreat-2026-11.md`; поле даты называется `retreat_date:` (не `date:` — Bridgetown требует парсабельную дату и падает с InvalidDateError)
+- **Контент только в `src/`, НИКОГДА напрямую в `output/`** — `yarn deploy` делает `rm -rf output/*` и стирает всё, что закоммичено в master руками
+- **Черновики и внутренние доки на сайт не кладутся вообще** — ни в `src/`, ни в `output/`: всё в этом репо публично. Место черновиков — вальт

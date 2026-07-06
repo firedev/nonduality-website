@@ -26,3 +26,5 @@ yarn deploy                      # build to output/, commit and push master
 ```
 
 Note: `yarn deploy` wipes `output/*` before building — never commit content to `master` directly, it will be erased on the next deploy. All content lives in `src/`.
+
+Drafts and internal docs never go on this site at all — not in `src/`, not in `output/`: everything in this repo is public. Drafts live in the vault.
