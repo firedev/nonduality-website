@@ -1,111 +1,93 @@
-<h2 id="overview">Overview</h2>
-<p>Promo copy for the November 2026 Surin Islands freediving retreat on nonduality.today — a premium, near-one-on-one retreat (max 6 guests, 3 instructors) framed around losing the fear and breaking the edges of your character through freediving.</p>
+---
+kind: post
+status: draft
+themes: [fear, identity, body]
+aliases: [surin retreat, nonduality freediving retreat, break your character, surin november 2026]
+site: nonduality.today
+location: Surin Islands, Thailand
+date: November 2026
+group: max 6 guests (2 per instructor), min 3
+---
 
-<h2 id="key-ideas">Key Ideas</h2>
-<ul>
-  <li>Freediving as the practice of leaving your character on the surface — fear is a label you stuck on yourself</li>
-  <li>Three instructors, max two guests each: Nick (mental side), Jan (depth + safety temperament), Tony (rescue diver + portraits)</li>
-  <li>“Trip” = long breath-holds, a psychedelic experience without the substance (psychedelicfreediving.com framing)</li>
-  <li>Day arc: arrive+dive → dive → trip → rest → leave+dive (5-day), or compressed 4-day</li>
-</ul>
+## Overview
+Promo copy for the November 2026 Surin Islands freediving retreat on nonduality.today — a premium, near-one-on-one retreat (max 6 guests, 3 instructors) framed around losing the fear and breaking the edges of your character through freediving.
 
-<h2 id="sources">Sources</h2>
-<ul>
-  <li>Site: https://nonduality.today</li>
-  <li>Jan Tyczkowski — <a href="https://www.balifreedivers.com/en/">Bali Freedivers, Amed</a> · <a href="https://www.instagram.com/jan.jalan/">@jan.jalan</a></li>
-  <li>Tony Myshlyaev — Tones of Blue · <a href="https://www.instagram.com/tones.of.blue/">@tones.of.blue</a> · <a href="https://theunderwaterpodcast.com/freedive-photographer-tony-myshlyaev/">The Underwater Podcast</a></li>
-  <li>[[Insights/ты сам клеишь ярлыки]] — fear is a label</li>
-  <li>[[Insights/freediving]] — leave your character on the surface</li>
-  <li>[[Insights/Три бхавы]] — the only question is direction</li>
-  <li>[[Insights/Можно не участвовать]] — which games are even yours</li>
-</ul>
+## Key Ideas
+- Freediving as the practice of leaving your character on the surface — fear is a label you stuck on yourself
+- Three instructors, max two guests each: Nick (mental side), Jan (depth + safety temperament), Tony (rescue diver + portraits)
+- "Trip" = long breath-holds, a psychedelic experience without the substance (psychedelicfreediving.com framing)
+- Day arc: arrive+dive → dive → trip → rest → leave+dive (5-day), or compressed 4-day
 
-<hr />
+## Sources
+- Site: https://nonduality.today
+- Jan Tyczkowski — [Bali Freedivers, Amed](https://www.balifreedivers.com/en/) · [@jan.jalan](https://www.instagram.com/jan.jalan/)
+- Tony Myshlyaev — Tones of Blue · [@tones.of.blue](https://www.instagram.com/tones.of.blue/) · [The Underwater Podcast](https://theunderwaterpodcast.com/freedive-photographer-tony-myshlyaev/)
+- [[Insights/ты сам клеишь ярлыки]] — fear is a label
+- [[Insights/freediving]] — leave your character on the surface
+- [[Insights/Три бхавы]] — the only question is direction
+- [[Insights/Можно не участвовать]] — which games are even yours
 
-<h1 id="surin--break-the-edges-of-your-character">SURIN — Break the Edges of Your Character</h1>
+---
 
-<p><em>Surin Islands · November 2026 · max 6 guests · 3 instructors</em></p>
+# SURIN — Break the Edges of Your Character
 
-<hr />
+*Surin Islands · November 2026 · max 6 guests · 3 instructors*
 
-<h2 id="the-pitch">The pitch</h2>
+---
 
-<p>People think freediving is about holding your breath. It’s about who you become when you stop fighting the water.</p>
+## The pitch
 
-<p>Down there, you leave your character on the surface — the one who’s been running your life. To go deeper, you have to let go.</p>
+People think freediving is about holding your breath. It's about who you become when you stop fighting the water.
 
-<p>Not a course. Four or five days on a near-empty island, three instructors, no more than six of you. Two per instructor. Almost one-on-one. We dive, we hold the breath until the mind goes quiet, and we talk about the thing underneath — fear, and the edges of the person you think you are.</p>
+Down there, you leave your character on the surface — the one who's been running your life. To go deeper, you have to let go.
 
-<hr />
+Not a course. Four or five days on a near-empty island, three instructors, no more than six of you. Two per instructor. Almost one-on-one. We dive, we hold the breath until the mind goes quiet, and we talk about the thing underneath — fear, and the edges of the person you think you are.
 
-<h2 id="whos-leading">Who’s leading</h2>
+---
 
-<ul>
-  <li><strong>Nick</strong> — nonduality.today. Molchanovs instructor. Starts where most courses end: with the head, not the fins.</li>
-  <li><strong>Jan</strong> — Bali Freedivers, Amed. Founder, certifies across Molchanovs, AIDA and SSI. Taught depth groups at Deep Weeks. Known for one thing: he meets you where you are instead of pushing you through. On deep water, that’s the instructor you want.</li>
-  <li><strong>Tony</strong> — Tones of Blue. Underwater photographer, ten years under, DeeperBlue Photo of the Year. He shoots people in open water. He’s also a rescue diver — so while he frames you, he’s watching you. You leave with an image of yourself in a state you’ve never seen.</li>
-</ul>
+## Who's leading
 
-<p>A freediving instructor is a person from another planet. In ordinary life you won’t meet them. For a few days, three of them are yours.</p>
+- **Nick** — nonduality.today. Molchanovs instructor. Starts where most courses end: with the head, not the fins.
+- **Jan** — Bali Freedivers, Amed. Founder, certifies across Molchanovs, AIDA and SSI. Taught depth groups at Deep Weeks. Known for one thing: he meets you where you are instead of pushing you through. On deep water, that's the instructor you want.
+- **Tony** — Tones of Blue. Underwater photographer, ten years under, DeeperBlue Photo of the Year. He shoots people in open water. He's also a rescue diver — so while he frames you, he's watching you. You leave with an image of yourself in a state you've never seen.
 
-<hr />
+A freediving instructor is a person from another planet. In ordinary life you won't meet them. For a few days, three of them are yours.
 
-<h2 id="what-its-actually-about">What it’s actually about</h2>
+---
 
-<p><strong>Fear is a label you stuck on yourself.</strong> Any event is neutral until you read it. Anxiety stands on two lies — that the bad thing will happen, and that you won’t survive it. Underwater you test both, with your own body.</p>
+## What it's actually about
 
-<p><strong>You live inside a character.</strong> A bundle of reactions that flinches first. The breath-hold gives it a rest — the mind stops steering and starts watching. Feel that once and you can’t unfeel it.</p>
+**Fear is a label you stuck on yourself.** Any event is neutral until you read it. Anxiety stands on two lies — that the bad thing will happen, and that you won't survive it. Underwater you test both, with your own body.
 
-<p><strong>The only question is direction.</strong> Asleep, living by rules you never chose. Or awake, acting how you feel instead of how it’s done. You don’t climb out in one move. You turn toward it in one decision. This is that decision, with an ocean behind it.</p>
+**You live inside a character.** A bundle of reactions that flinches first. The breath-hold gives it a rest — the mind stops steering and starts watching. Feel that once and you can't unfeel it.
 
-<hr />
+**The only question is direction.** Asleep, living by rules you never chose. Or awake, acting how you feel instead of how it's done. You don't climb out in one move. You turn toward it in one decision. This is that decision, with an ocean behind it.
 
-<h2 id="the-days">The days</h2>
+---
 
-<p>Small and slow on purpose.</p>
+## The days
 
-<table>
-  <thead>
-    <tr>
-      <th>Day</th>
-      <th> </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>1 — Arrive</strong></td>
-      <td>Land on the island. One dive to wash off the mainland. What is your character afraid of?</td>
-    </tr>
-    <tr>
-      <td><strong>2 — Dive</strong></td>
-      <td>Two sessions. Technique with Jan, the mind between dives.</td>
-    </tr>
-    <tr>
-      <td><strong>3 — Trip</strong></td>
-      <td>Long breath-holds. One person per buoy, no fins, minimal gear. Explore your inner space with nothing pulling at you — a psychedelic experience without the substance. Tony shoots.</td>
-    </tr>
-    <tr>
-      <td><strong>4 — Rest</strong></td>
-      <td>Integration. Which of your games are even yours? Slow body, quiet head.</td>
-    </tr>
-    <tr>
-      <td><strong>5 — Leave</strong></td>
-      <td>One last dive, then home. You take the state, not just the photos.</td>
-    </tr>
-  </tbody>
-</table>
+Small and slow on purpose.
 
-<p>Tighter boat window: <strong>Arrive &amp; dive → Dive → Trip → Home.</strong> Same arc, four days.</p>
+| Day | |
+|---|---|
+| **1 — Arrive** | Land on the island. One dive to wash off the mainland. What is your character afraid of? |
+| **2 — Dive** | Two sessions. Technique with Jan, the mind between dives. |
+| **3 — Trip** | Long breath-holds. One person per buoy, no fins, minimal gear. Explore your inner space with nothing pulling at you — a psychedelic experience without the substance. Tony shoots. |
+| **4 — Rest** | Integration. Which of your games are even yours? Slow body, quiet head. |
+| **5 — Leave** | One last dive, then home. You take the state, not just the photos. |
 
-<hr />
+Tighter boat window: **Arrive & dive → Dive → Trip → Home.** Same arc, four days.
 
-<h2 id="who-its-for">Who it’s for</h2>
+---
 
-<p>People who feel the water at the edge of their comfort and walk into it. No depth experience needed — a 3-day certification runs alongside, issued under Molchanovs, AIDA or SSI. You need one thing: willingness to leave your character on the surface.</p>
+## Who it's for
 
-<p>Six seats. If someone drops, we run with three. Better for you.</p>
+People who feel the water at the edge of their comfort and walk into it. No depth experience needed — a 3-day certification runs alongside, issued under Molchanovs, AIDA or SSI. You need one thing: willingness to leave your character on the surface.
 
-<hr />
+Six seats. If someone drops, we run with three. Better for you.
 
-<p><strong>Surin · November 2026 · nonduality.today</strong>
-<em>The beauty of nature multiplied by the depths of consciousness.</em></p>
+---
+
+**Surin · November 2026 · nonduality.today**
+*The beauty of nature multiplied by the depths of consciousness.*
