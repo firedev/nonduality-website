@@ -21,11 +21,18 @@ The beauty of nature multiplied by the depths of consciousness.
 {:.text-2xl .sm:text-3xl .text-center .mb-8 .mt-0}
 Every year. Every February.
 
+<div class="not-prose cta">
+{%@ Button href: "https://ig.me/m/nofinsfreediving", icon: "map/compass-3-fill", target: "_blank" do %}
+I want to go
+{% end %}
+<p>Surin · late February – March 2027 · six seats</p>
+</div>
+
 # 🫧 Highpoint
 We peak during an exclusive **4 day package trip** to the Surin Islands in a protected Oceanic National Park World Heritage Site in Phang Nga, Thailand.
 
 # 🗓️ Dates
-Near the end of tourist season — not too hot. Aligned with the Moon: no tide, no current, fewer tourists. Dates announced each fall.
+Late February – March 2027. Near the end of tourist season — not too hot. Aligned with the Moon: no tide, no current, fewer tourists.
 
 # 🏝️ Surin Islands Experience
 Clear water, vibrant coral reefs and diverse marine life. We stay in tents on a beach. Two ocean trips a day with a break in between. Included:

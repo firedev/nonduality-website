@@ -12,18 +12,14 @@
       </div>
     </a>
 
-    <a class="group inline-flex space-x-2 items-center rounded-2xl py-4 px-2 font-bold outline-none
-    transition duration-300
-    shadow-xl shadow-sky-950/10
-    bg-white
-    hover:bg-slate-200 hover:shadow-md hover:shadow-sky-700/30" href="/book" aria-label="The book">
-  <span class="ease transition duration-300 opacity-100 group-hover:opacity-0 translate-x-4 group-hover:-translate-x-4">
-    <sl-icon library="remixicon" name="document/file-text-fill"></sl-icon>
-  </span>
-      <span class="ease transition duration-200 translate-x-4 group-hover:-translate-x-4">The Book</span>
-      <span class="ease transition duration-300 opacity-0 group-hover:opacity-100 translate-x-4 group-hover:-translate-x-4">
-    <sl-icon library="remixicon" name="arrows/arrow-right"></sl-icon>
-  </span>
-    </a>
+    {% if homepage? %}
+      {%@ Button href: "https://ig.me/m/nofinsfreediving", icon: "map/compass-3-fill", target: "_blank" do %}
+        I want to go
+      {% end %}
+    {% else %}
+      {%@ Button href: "/book", icon: "document/file-text-fill" do %}
+        The Book
+      {% end %}
+    {% end %}
   </div>
 </header>

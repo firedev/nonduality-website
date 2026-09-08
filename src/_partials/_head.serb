@@ -11,6 +11,11 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" />
 
 {%= seo %}
+{% if resource.data.redirect_to %}
+<meta http-equiv="refresh" content="0; url={%= resource.data.redirect_to %}">
+<link rel="canonical" href="{%= site.config.url %}{%= resource.data.redirect_to %}">
+<script>location.replace("{%= resource.data.redirect_to %}")</script>
+{% end %}
 
 {% en_url = page.data.locale == "ru" ? resource.relative_url.sub('/ru/', '/') : resource.relative_url %}
 {% ru_url = page.data.locale == "ru" ? resource.relative_url : "/ru#{resource.relative_url}" %}

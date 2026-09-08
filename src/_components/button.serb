@@ -1,12 +1,14 @@
-<a class="group inline-flex space-x-2 items-center rounded-2xl py-4 px-2 font-bold outline-none
+<a class="group inline-flex space-x-2 items-center rounded-2xl py-4 px-2 font-bold
     transition duration-300
     shadow-xl shadow-sky-950/10
     bg-white
-    hover:bg-slate-200 hover:shadow-md hover:shadow-sky-700/30" href="{{href}}" aria-label="The book">
+    hover:bg-slate-200 hover:shadow-md hover:shadow-sky-700/30
+    focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-sky-700"
+   href="{{ href }}"{% if target %} target="{{ target }}"{% end %}{% if rel %} rel="{{ rel }}"{% end %}>
   <span class="ease transition duration-300 opacity-100 group-hover:opacity-0 translate-x-4 group-hover:-translate-x-4">
-    <sl-icon library="remixicon" name="{{icon}}"></sl-icon>
+    <sl-icon library="remixicon" name="{{ icon }}"></sl-icon>
   </span>
-  <span class="ease transition duration-200 translate-x-4 group-hover:-translate-x-4">{{content}}</span>
+  <span class="ease transition duration-200 translate-x-4 group-hover:-translate-x-4">{{ content }}</span>
   <span class="ease transition duration-300 opacity-0 group-hover:opacity-100 translate-x-4 group-hover:-translate-x-4">
     <sl-icon library="remixicon" name="arrows/arrow-right"></sl-icon>
   </span>
