@@ -59,7 +59,7 @@ I welcome everybody to try the awakening path I took. Following a meditation sch
 - Consciousness expansion
 
 # 🗓️ The Schedule
-Plan two weeks. Don't book it day-to-day. We'll stay in Phuket, get used to the jet lag and the sun. Never tried freediving? A 3-day freediving course is available. Then we travel to the islands, spend a few days living in nature. Plenty of time with the ocean.
+Don't book it day-to-day. We'll stay in Phuket, get used to the jet lag and the sun. Never tried freediving? A 3-day freediving course is available. Then we travel to the islands, spend a few days living in nature. Plenty of time with the ocean.
 
 It's two dives a day with some break days and plenty of rest and chill in between. To go deeper, you got to let go.
 
