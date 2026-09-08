@@ -1,4 +1,4 @@
-<a class="group inline-flex space-x-2 items-center rounded-2xl py-4 px-2 font-bold
+<a class="btn group inline-flex space-x-2 items-center rounded-2xl py-4 px-2 font-bold
     transition duration-300
     shadow-xl shadow-sky-950/10
     bg-white

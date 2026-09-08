@@ -182,6 +182,9 @@
 .prose a {
   @apply decoration-8 decoration-sky-200 underline font-medium;
 }
+a.btn {
+  text-decoration: none;
+}
 ul.prose,
 .prose ul {
   @apply list-disc list-inside mb-4;
