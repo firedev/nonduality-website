@@ -40,6 +40,16 @@ Clear water, vibrant coral reefs and diverse marine life. We stay in tents on a 
 - Two daily ocean exploration trips
 - Food and drinks
 
+<div class="not-prose surin-photos">
+  <img class="surin-photos-hero" src="/images/trip/surin-boat.jpeg" width="1800" height="1350" alt="Longtail boat in clear water off a Surin beach" loading="eager">
+  <div class="surin-photos-grid">
+    <img src="/images/trip/surin-dusk.jpeg" width="1200" height="1600" alt="Still water between two Surin hills at dusk" loading="lazy">
+    <img src="/images/trip/surin-rock.jpeg" width="1200" height="1600" alt="Small rocky islet in the Andaman Sea" loading="lazy">
+    <img src="/images/trip/surin-tent.jpeg" width="1200" height="1600" alt="Bell tent in the trees at night" loading="lazy">
+    <img src="/images/trip/surin-path.jpeg" width="1200" height="1600" alt="Path through the camp at night" loading="lazy">
+  </div>
+</div>
+
 # 🧘‍♀️  Personal Transformation Path
 I welcome everybody to try the awakening path I took. Following a meditation schedule with a certain state of mind one can free oneself in about a week.
 - Meditation practices
@@ -80,75 +90,3 @@ Insights come fast out there. Integration — journaling, somatic work, meditati
 
 {:.text-center}
 # ♥️ Oneness in the heart of Thailand!
-
-<div class="not-prose px-2 py-3 text-center">
-  <h1 class="mt-0">Past Trips</h1>
-  <h2>Teriberka, North Polar Circle</h2>
-
-  <div class="flex flex-wrap">
-    <div class="w-4/12">
-      <div class="w-full p-1 md:p-2">
-        <img alt="gallery" class="block h-full w-full rounded object-cover object-center" src="/images/trip/trip1.jpeg" />
-      </div>
-    </div>
-    <div class="flex w-4/12 flex-wrap">
-      <div class="w-full p-1 md:p-2">
-        <img alt="gallery" class="block h-full w-full rounded object-cover object-center" src="/images/trip/trip2.jpeg" />
-      </div>
-    </div>
-    <div class="flex w-4/12 flex-wrap">
-      <div class="w-full p-1 md:p-2">
-        <img alt="gallery" class="block h-full w-full rounded object-cover object-center" src="/images/trip/trip3.jpeg" />
-      </div>
-    </div>
-  </div>
-
-
-  <h2>Phuket, Thailand</h2>
-
-  <div class="-m-1 flex flex-wrap md:-m-2">
-    <div class="flex w-4/12 flex-wrap">
-      <div class="w-full p-1 md:p-2">
-        <img alt="gallery" class="block h-full w-full rounded object-cover object-center"
-             src="/images/trip/phuket1.jpeg" />
-      </div>
-    </div>
-    <div class="flex w-4/12 flex-wrap">
-      <div class="w-full p-1 md:p-2">
-        <img alt="gallery" class="block h-full w-full rounded object-cover object-center"
-             src="/images/trip/phuket2.jpeg" />
-      </div>
-    </div>
-    <div class="flex w-4/12 flex-wrap">
-      <div class="w-full p-1 md:p-2">
-        <img alt="gallery" class="block h-full w-full rounded object-cover object-center"
-             src="/images/trip/phuket3.jpeg" />
-      </div>
-    </div>
-  </div>
-
-
-  <h2>Phang-Nga, Thailand</h2>
-
-  <div class="-m-1 flex flex-wrap md:-m-2">
-    <div class="flex w-4/12 flex-wrap">
-      <div class="w-full p-1 md:p-2">
-        <img alt="gallery" class="block h-full w-full rounded object-cover object-center"
-             src="/images/trip/phangnga1.jpeg" />
-      </div>
-    </div>
-    <div class="flex w-4/12 flex-wrap">
-      <div class="w-full p-1 md:p-2">
-        <img alt="gallery" class="block h-full w-full rounded object-cover object-center"
-             src="/images/trip/phangnga2.jpeg" />
-      </div>
-    </div>
-    <div class="flex w-4/12 flex-wrap">
-      <div class="w-full p-1 md:p-2">
-        <img alt="gallery" class="block h-full w-full rounded object-cover object-center"
-             src="/images/trip/phangnga3.jpeg" />
-      </div>
-    </div>
-  </div>
-
-</div>
