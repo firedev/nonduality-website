@@ -13,9 +13,7 @@
     </a>
 
     {% if homepage? %}
-      {%@ Button href: "https://ig.me/m/nofinsfreediving", icon: "map/compass-3-fill", target: "_blank" do %}
-        I want to go
-      {% end %}
+      <a class="btn-go" href="https://ig.me/m/nofinsfreediving" target="_blank" rel="noopener">I want to go</a>
     {% else %}
       {%@ Button href: "/book", icon: "document/file-text-fill" do %}
         The Book

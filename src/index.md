@@ -22,9 +22,7 @@ The beauty of nature multiplied by the depths of consciousness.
 Every year. Every February.
 
 <div class="not-prose cta">
-{%@ Button href: "https://ig.me/m/nofinsfreediving", icon: "map/compass-3-fill", target: "_blank" do %}
-I want to go
-{% end %}
+<a class="btn-go" href="https://ig.me/m/nofinsfreediving" target="_blank" rel="noopener">I want to go</a>
 <p>Surin Islands Marine Reserve · Phuket, Thailand · Late Feb-Mar 2027 · Six Seats</p>
 </div>
 

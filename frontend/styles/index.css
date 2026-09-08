@@ -179,14 +179,56 @@
 }
 
 /* Unlayered — overrides typography plugin (which is in @layer utilities in v4) */
-.prose a:visited:not(.btn) { @apply text-slate-500 }
-.prose a:not(.btn) {
+.prose a:visited:not(.btn):not(.btn-go) { @apply text-slate-500 }
+.prose a:not(.btn):not(.btn-go) {
   @apply decoration-8 decoration-sky-200 underline font-medium;
 }
 a.btn,
+a.btn-go,
 .cta a {
   text-decoration: none;
   text-decoration-line: none;
+}
+
+a.btn-go {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #0284c7;
+  color: #fff;
+  font-weight: 800;
+  font-size: 2.15rem;
+  letter-spacing: -0.03em;
+  line-height: 1.05;
+  padding: 1.05rem 1.7rem 1.15rem;
+  border-radius: 1rem;
+  box-shadow: 0 14px 32px -12px rgb(2 132 199 / 0.55);
+}
+a.btn-go:visited {
+  color: #fff;
+  background: #0284c7;
+}
+a.btn-go:hover,
+a.btn-go:focus-visible {
+  background: #0369a1;
+  color: #fff;
+  text-decoration: none;
+}
+a.btn-go:focus-visible {
+  outline: 2px solid #0369a1;
+  outline-offset: 3px;
+}
+header a.btn-go {
+  font-size: 1.2rem;
+  padding: 0.7rem 1.2rem 0.8rem;
+  border-radius: 0.85rem;
+  box-shadow: 0 8px 18px -8px rgb(2 132 199 / 0.45);
+}
+@media (min-width: 640px) {
+  a.btn-go {
+    font-size: 2.6rem;
+    padding: 1.15rem 1.9rem 1.25rem;
+  }
 }
 ul.prose,
 .prose ul {
