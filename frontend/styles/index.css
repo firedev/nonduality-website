@@ -80,6 +80,8 @@
   .cta p {
     margin: 0;
     text-align: center;
+    max-width: 28rem;
+    line-height: 1.4;
   }
 
   .surin-photos {

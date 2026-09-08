@@ -24,7 +24,7 @@ yarn deploy    # production build → output/ → commit+push master (нужен
 
 ## CTA
 
-На `/` — кнопка **I want to go** (hero + шапка) → Instagram DM `https://ig.me/m/nofinsfreediving`. Статическая ссылка, без формы и без бэкенда. На страницах книги шапка остаётся **The Book**. `/trip` редиректит на `/` (старые даты 2024). Оффер: Surin · late February – March 2027 · six seats. Галерея на главной — фото с Сурина (`src/images/trip/surin-*.jpeg`), не Teriberka/Phuket/Phang-Nga.
+На `/` — кнопка **I want to go** (hero + шапка) → Instagram DM `https://ig.me/m/nofinsfreediving`. Статическая ссылка, без формы и без бэкенда. На страницах книги шапка остаётся **The Book**. `/trip` редиректит на `/` (старые даты 2024). Оффер: Surin Islands Marine Reserve, Phuket, Thailand * Late Feb-Mar 2027 * Six Seats. Галерея на главной — фото с Сурина (`src/images/trip/surin-*.jpeg`), не Teriberka/Phuket/Phang-Nga.
 
 ## Грабли
 

@@ -25,7 +25,7 @@ Every year. Every February.
 {%@ Button href: "https://ig.me/m/nofinsfreediving", icon: "map/compass-3-fill", target: "_blank" do %}
 I want to go
 {% end %}
-<p>Surin · late February – March 2027 · six seats</p>
+<p>Surin Islands Marine Reserve, Phuket, Thailand * Late Feb-Mar 2027 * Six Seats</p>
 </div>
 
 # 🫧 Highpoint
