@@ -74,7 +74,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 0.75rem;
+    gap: 1.5rem;
     margin: 0 0 4rem;
   }
   .cta p {
@@ -178,12 +178,14 @@
 }
 
 /* Unlayered — overrides typography plugin (which is in @layer utilities in v4) */
-.prose a:visited { @apply text-slate-500 }
-.prose a {
+.prose a:visited:not(.btn) { @apply text-slate-500 }
+.prose a:not(.btn) {
   @apply decoration-8 decoration-sky-200 underline font-medium;
 }
-a.btn {
+a.btn,
+.cta a {
   text-decoration: none;
+  text-decoration-line: none;
 }
 ul.prose,
 .prose ul {
